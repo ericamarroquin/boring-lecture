@@ -5,9 +5,8 @@ font-style: italic;
 text-align: center;
 color: purple;
 }
-
 img {
-  float: left;
+  size: 50%;
 }
 .sidebar {
   width: 30%;
@@ -15,6 +14,11 @@ img {
   background-color: yellow;
 }
 .column {
-  width: 300px;
   float: left;
+  width: 300px;
+}
+
+.column img {
+  float: left;
+  width: 95%;
 }
