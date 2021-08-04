@@ -1,14 +1,11 @@
-h2.intro {
+.intro {
 font-family: 'Times New Roman', Times, serif;
 text-decoration-line: underline;
 font-style: italic;
 text-align: center;
 color: purple;
 }
-p.intro {
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-}
-img.intro {
-width: 75%;
+img {
+  width: 50%
 }
